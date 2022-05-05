@@ -31,3 +31,10 @@ Duster 360        14.3   8 360.0 245 3.21 3.570 15.84  0  0    3    4
 Merc 240D         24.4   4 146.7  62 3.69 3.190 20.00  1  0    4    2
 Merc 230          22.8   4 140.8  95 3.92 3.150 22.90  1  0    4    2
 Merc 280          19.2   6 167.6 123 3.92 3.440 18.30  1  0    4    4 
+
+
+summary(my_list)
+     Length Class      Mode   
+[1,] 10     -none-     numeric
+[2,]  9     -none-     numeric
+[3,] 11     data.frame list   
